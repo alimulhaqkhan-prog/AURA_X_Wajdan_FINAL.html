@@ -1,4 +1,4 @@
-# 🌌 AURA-X Ω — Wajdan Edition (Layer 11)
+#AURA-X Ω — Wajdan
 ### Artificial Neuro-Identity Memory Architecture with Computational Intuition
 
 <p align="center">
