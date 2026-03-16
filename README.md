@@ -221,6 +221,11 @@ This research and its technical implementation are protected under **UK Patent A
 
 ---
 
-<p align="center">
-  <em>AURA-X Ω Research Cell · Timergara, KP, Pakistan · Patent GB2518804.6 · March 2026</em>
-</p>
+## © Copyright
+
+© 2026 Alim ul Haq Khan. All Rights Reserved.  
+UK Patent Application No. **GB2518804.6**  
+**No permission is granted** for reproduction, distribution, modification,  
+or commercial/non-commercial use without explicit written consent.  
+Unauthorized use constitutes patent infringement under UK and international law.  
+📧 alimulhaqkhan@gmail.com
