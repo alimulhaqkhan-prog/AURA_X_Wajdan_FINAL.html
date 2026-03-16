@@ -34,7 +34,7 @@ This repository contains **Version 2 (Wajdan Edition)**, introducing **W(t) — 
 
 **▶ Open the prototype directly in your browser:**
 
-1. Download [`AURA_X_V2_Wajdan_FINAL.html`](./AURA_X_V2_Wajdan_FINAL.html)
+1. https://github.com/alimulhaqkhan-prog/AURA_X_Wajdan_FINAL.html
 2. Open in any modern browser (Chrome / Firefox / Edge)
 3. Get a free Groq API key at [console.groq.com](https://console.groq.com)
 4. Enter your key and click **Connect**
